@@ -1,8 +1,9 @@
 import React from 'react';
 import './homepage.styles.css';
+import Directory from '../../components/directory/directory.components';
 const HomePage = () => (
     <div className='home-page'>
-        <h1>Hello world</h1>
+        <Directory />
     </div>
 )
 export default HomePage;

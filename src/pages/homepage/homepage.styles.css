@@ -1,6 +1,10 @@
 .home-page{
     /* height: 300px; */
-    padding: 50px;
-    text-align: center;
+    padding: 20px 80px;
+    /* text-align: center; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
     background: linear-gradient(to right,rgb(243, 86, 86),rgba(133, 189, 138, 0.9));
 }
